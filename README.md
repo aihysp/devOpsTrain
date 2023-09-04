@@ -1,2 +1,0 @@
-# devOpsTrain
-# devOpsTrain
